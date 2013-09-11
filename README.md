@@ -2,7 +2,7 @@ R-on-Hadoop_Hive-POC
 ====================
 
 Implementation of R On Hadoop , Using Hive . Integration of RJDBC with Hive
-====================
+
 Installation: 
 ====================
 1. Install Hadoop.
